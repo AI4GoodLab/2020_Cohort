@@ -8,8 +8,8 @@
 - Dataset
 - Pipeline
 - Models
-  - NMF
-  - SVM
+  - Non-negative matrix factorization
+  - Support vector machine
 - Contact
 - Acknowledgements
 
@@ -87,20 +87,16 @@ Here’s an example of two of the topics that were generated and certain article
 
 
 
-[‘Grocers defend pandemic pay cut decisions as independently made despite emails, calls’](https://www.tricitynews.com/covid-19/grocers-defend-pandemic-pay-cut-decisions-as-independently-made-despite-emails-calls-1.24168500) | Tricity News
------------- | -------------
-[‘Conservative leadership race enters final push’](https://www.ctvnews.ca/politics/conservative-leadership-race-enters-final-push-1.4830847) | CTV News
------------- | -------------
-[‘It’s time for Canada to play hardball with China – and the United States’](https://www.therecord.com/ts/politics/political-opinion/2020/07/13/its-time-for-canada-to-play-hardball-with-china-and-the-united-states.html) | The Record 
+| [‘Grocers defend pandemic pay cut decisions as independently made despite emails, calls’](https://www.tricitynews.com/covid-19/grocers-defend-pandemic-pay-cut-decisions-as-independently-made-despite-emails-calls-1.24168500) | Tricity News |
+| [‘Conservative leadership race enters final push’](https://www.ctvnews.ca/politics/conservative-leadership-race-enters-final-push-1.4830847) | CTV News |
+| [‘It’s time for Canada to play hardball with China – and the United States’](https://www.therecord.com/ts/politics/political-opinion/2020/07/13/its-time-for-canada-to-play-hardball-with-china-and-the-united-states.html) | The Record |
 
 ![topic 13](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png) 
 
 
-[‘Fashion face-ward: Calgary designers create some stylish PPE’](https://calgary.ctvnews.ca/fashion-face-ward-calgary-designers-create-some-stylish-ppe-1.5026059) | CTV News
------------- | -------------
-[‘Metrolinx changes course, makes masks mandatory on GO Transit vehicles starting Tuesday’](https://www.thestar.com/news/gta/2020/07/17/masks-will-be-mandatory-on-go-transit-vehicles-starting-tuesday.html) | The Star
------------- | -------------
-[‘Surrey student makes hundreds of face masks, donates $2700 to local hospitals’](https://www.northdeltareporter.com/community/surrey-student-makes-hundreds-of-face-masks-donates-2700-to-local-hospitals/) | North Delta Reporter
+| [‘Fashion face-ward: Calgary designers create some stylish PPE’](https://calgary.ctvnews.ca/fashion-face-ward-calgary-designers-create-some-stylish-ppe-1.5026059) | CTV News |
+| [‘Metrolinx changes course, makes masks mandatory on GO Transit vehicles starting Tuesday’](https://www.thestar.com/news/gta/2020/07/17/masks-will-be-mandatory-on-go-transit-vehicles-starting-tuesday.html) | The Star |
+| [‘Surrey student makes hundreds of face masks, donates $2700 to local hospitals’](https://www.northdeltareporter.com/community/surrey-student-makes-hundreds-of-face-masks-donates-2700-to-local-hospitals/) | North Delta Reporter |
 
 
 
