@@ -38,18 +38,18 @@ We are currently in the process of iterating on the map prototype, as well as bu
 ## Dataset
 We scraped 4206 news articles from 21 news outlets in Canada. Below you’ll find the breakdown of articles we pulled from each respective outlet. 
 
-![article by outlet](https://github.com/AI4GoodLab/2020_Cohort/tree/master/NewsworthyML/images/articles_by_outlet.png)
+![article by outlet](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_outlet.png)
 
 These articles we used were also sampled from a range of news categories. Below you’ll find the breakdown of news articles by category. 
 
-![article by category](https://github.com/AI4GoodLab/2020_Cohort//NewsworthyML/images/articles_by_cat.png)
+![article by category](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_cat.png)
 
 
 
 ## Pipeline
 Below is our workflow and ML pipeline. More on NMF and SVMs to follow.
 
-![pipeline](https://github.com/AI4GoodLab/2020_Cohort/tree/master/NewsworthyML/images/pipeline.png)
+![pipeline](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/pipeline.png)
 
 
 ## Models
@@ -83,21 +83,23 @@ Additionally, for each topic, the script outputs
 
 Here’s an example of two of the topics that were generated and certain articles associated with them:
 
-![topic 17](https://github.com/AI4GoodLab/2020_Cohort/tree/master/NewsworthyML/images/topic_17.png) 
+![topic 17](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png) 
 
 
 
 [‘Grocers defend pandemic pay cut decisions as independently made despite emails, calls’](https://www.tricitynews.com/covid-19/grocers-defend-pandemic-pay-cut-decisions-as-independently-made-despite-emails-calls-1.24168500) | Tricity News
 ------------ | -------------
 [‘Conservative leadership race enters final push’](https://www.ctvnews.ca/politics/conservative-leadership-race-enters-final-push-1.4830847) | CTV News
+------------ | -------------
 [‘It’s time for Canada to play hardball with China – and the United States’](https://www.therecord.com/ts/politics/political-opinion/2020/07/13/its-time-for-canada-to-play-hardball-with-china-and-the-united-states.html) | The Record 
 
-![topic 13](https://github.com/AI4GoodLab/2020_Cohort/tree/master/NewsworthyML/images/topic_13.png) 
+![topic 13](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png) 
 
 
 [‘Fashion face-ward: Calgary designers create some stylish PPE’](https://calgary.ctvnews.ca/fashion-face-ward-calgary-designers-create-some-stylish-ppe-1.5026059) | CTV News
 ------------ | -------------
 [‘Metrolinx changes course, makes masks mandatory on GO Transit vehicles starting Tuesday’](https://www.thestar.com/news/gta/2020/07/17/masks-will-be-mandatory-on-go-transit-vehicles-starting-tuesday.html) | The Star
+------------ | -------------
 [‘Surrey student makes hundreds of face masks, donates $2700 to local hospitals’](https://www.northdeltareporter.com/community/surrey-student-makes-hundreds-of-face-masks-donates-2700-to-local-hospitals/) | North Delta Reporter
 
 
