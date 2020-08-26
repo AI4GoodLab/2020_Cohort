@@ -83,7 +83,9 @@ Additionally, for each topic, the script outputs
 
 Here’s an example of two of the topics that were generated and certain articles associated with them:
 
-<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png" width="300" height="300" align="center">
+<p align="center">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png" width="300" height="300">
+</p>
 
 |     |     |
 | --- | --- |
@@ -91,9 +93,10 @@ Here’s an example of two of the topics that were generated and certain article
 | [‘Conservative leadership race enters final push’](https://www.ctvnews.ca/politics/conservative-leadership-race-enters-final-push-1.4830847) | CTV News |
 | [‘It’s time for Canada to play hardball with China – and the United States’](https://www.therecord.com/ts/politics/political-opinion/2020/07/13/its-time-for-canada-to-play-hardball-with-china-and-the-united-states.html) | The Record |
 
-
-<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png" width="300" height="300" align="center">
-
+<p align="center">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png" width="300" height="300">
+</p>
+ 
 |     |     |
 | --- | --- |
 | [‘Fashion face-ward: Calgary designers create some stylish PPE’](https://calgary.ctvnews.ca/fashion-face-ward-calgary-designers-create-some-stylish-ppe-1.5026059) | CTV News |
