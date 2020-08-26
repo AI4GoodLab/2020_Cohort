@@ -83,7 +83,7 @@ Additionally, for each topic, the script outputs
 
 Here’s an example of two of the topics that were generated and certain articles associated with them:
 
-![topic 17](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png | width=100) 
+![topic 17](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png){:width="400px"} 
 
 
 |     |     |
