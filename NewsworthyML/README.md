@@ -1,4 +1,4 @@
-![logo](https://github.com/AI4GoodLab/2020_Cohort/tree/master/NewsworthyML/images/newsworthy.png)
+![logo](https://github.com/AI4GoodLab/2020_Cohort/NewsworthyML/images/newsworthy.png)
 
 # newsworthy.ml
 
