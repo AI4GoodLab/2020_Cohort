@@ -83,7 +83,7 @@ Additionally, for each topic, the script outputs
 
 Here’s an example of two of the topics that were generated and certain articles associated with them:
 
-<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png" width="100" height="100">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_17.png" width="300" height="300">
 
 |     |     |
 | --- | --- |
@@ -91,7 +91,8 @@ Here’s an example of two of the topics that were generated and certain article
 | [‘Conservative leadership race enters final push’](https://www.ctvnews.ca/politics/conservative-leadership-race-enters-final-push-1.4830847) | CTV News |
 | [‘It’s time for Canada to play hardball with China – and the United States’](https://www.therecord.com/ts/politics/political-opinion/2020/07/13/its-time-for-canada-to-play-hardball-with-china-and-the-united-states.html) | The Record |
 
-![topic 13](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png?s=100) 
+
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/topic_13.png" width="300" height="300">
 
 |     |     |
 | --- | --- |
