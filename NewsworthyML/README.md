@@ -1,6 +1,7 @@
 ![logo](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/newsworthy.png)
 
-# newsworthy.ml
+
+<center><h1> newsworthy.ml </h1></center>
 
 ## Table of Contents
 - About the Project
@@ -38,18 +39,24 @@ We are currently in the process of iterating on the map prototype, as well as bu
 ## Dataset
 We scraped 4206 news articles from 21 news outlets in Canada. Below you’ll find the breakdown of articles we pulled from each respective outlet. 
 
-![article by outlet](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_outlet.png)
+<p align="center">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_outlet.png" width="600">
+</p>
 
 These articles we used were also sampled from a range of news categories. Below you’ll find the breakdown of news articles by category. 
 
-![article by category](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_cat.png)
+<p align="center">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/articles_by_cat.png" width="600">
+</p>
 
 
 
 ## Pipeline
 Below is our workflow and ML pipeline. More on NMF and SVMs to follow.
 
-![pipeline](https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/pipeline.png)
+<p align="center">
+<img src="https://github.com/AI4GoodLab/2020_Cohort/blob/master/NewsworthyML/images/pipeline.png" width="600">
+</p>
 
 
 ## Models
